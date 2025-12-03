@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/pradeepdevs140/pradeepdevs140/main/banner.png" alt="Pradeep Banner" />
-
 # Hi, I'm Pradeep 🌟 👋
 
 🚀 **Full Stack Developer (Java + React + Spring Boot)**  
@@ -93,10 +91,6 @@ A microservices-based product listing platform.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepdevs140&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepdevs140&layout=compact&theme=radical)
-
 ---
 
 ## 🌐 Connect With Me
@@ -107,18 +101,4 @@ A microservices-based product listing platform.
 
 ---
 
-## 📝 How to Add This README to Your GitHub
-1. Go to your GitHub profile.
-2. Create a new repo **with the same name as your username**, example:
-   ```bash
-   pradeepdevs140
-   ```
-3. Check the box **“Add a README file”**.
-4. Replace its content with this README.
-5. Commit and push.
-
-Your profile will now show this README as the main banner.
-
----
-
-⭐ If you like my work, feel free to connect or collaborate!
+l
