@@ -1,16 +1,124 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/pradeepdevs140/pradeepdevs140/main/banner.png" alt="Pradeep Banner" />
 
-<!--
-**pradeepdevs140/pradeepdevs140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pradeep 🌟 👋
 
-Here are some ideas to get you started:
+🚀 **Full Stack Developer (Java + React + Spring Boot)**  
+⚡ Building clean UIs, scalable APIs, and impactful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+Full Stack Developer with hands-on experience in building end‑to‑end applications using **React.js, Spring Boot, MySQL, MongoDB**, and modern UI/UX design principles. I focus on delivering clean, scalable, and optimized solutions.
+
+I enjoy turning ideas into production-ready systems and continuously pushing myself through hackathons, open-source, and real-world problem-solving.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,bootstrap,mysql,mongodb,postman,git,github,figma" />
+</p>
+
+
+### **Languages**
+- Java, JavaScript
+
+### **Frontend**
+- React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
+
+### **Backend**
+- Java, Spring Boot, RESTful APIs, Microservices
+
+### **Database**
+- MySQL, MongoDB
+
+### **Tools**
+- Git & GitHub, Postman, Figma
+
+### **Soft Skills**
+- Critical Thinking, Problem Solving, Data-driven Decision Making
+
+---
+
+## 🧩 Projects
+
+### Featured Project Images
+<p>
+  <img src="https://raw.githubusercontent.com/pradeepdevs140/pradeepdevs140/main/projects/crm.png" width="400" />
+  <img src="https://raw.githubusercontent.com/pradeepdevs140/pradeepdevs140/main/projects/invoice.png" width="400" />
+</p>
+
+
+### 🔗 **Customer Management System (CRM)**
+A full-stack CRM system built with React, Spring Boot, MySQL.
+- Role-based authentication (Admin + User)
+- Full CRUD functionality
+- Responsive UI
+- RESTful backend
+
+### 🔗 **Invoice Generator System**
+A secure invoice management system using Spring Boot + React + MongoDB.
+- JWT Authentication
+- Email service integration
+- Dynamic invoice templates
+- Real-time dashboards
+
+### 🔗 **E‑Commerce Showcase Platform**
+A microservices-based product listing platform.
+- Modular architecture
+- Admin panel for product management
+- Direct communication via WhatsApp, Email, Phone
+- Responsive React UI
+
+---
+
+## 🚀 Experience
+### **Web Developer Intern – APPBEEZ (Jun–Jul 2024)**
+- Built advanced UI screens & integrated AI-based interactions.
+- Connected REST APIs and implemented secure email workflows.
+
+### **Cybersecurity Intern – Supraja Technologies (Feb–Jul 2024)**
+- Performed application security testing.
+- Built file encryption/decryption tools.
+
+---
+
+## 🏆 Achievements
+- Finalist – **College ERP Project Development**
+- Participated in **Smart India Hackathon**, **Hackbyte 3.0**, **TN Road Safety Hackathon**
+- Led events as **Dept. Coordinator** (Maths Club & ITAC Club)
+- Active in open‑source and pitch events
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepdevs140&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepdevs140&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- **Portfolio**: https://pradeep-portfolio-phi.vercel.app/
+- **LinkedIn**: https://linkedin.com/in/pradeepdevs
+- **GitHub**: https://github.com/pradeepdevs140
+- **Email**: pradeepkrishna140@gmail.com
+
+---
+
+## 📝 How to Add This README to Your GitHub
+1. Go to your GitHub profile.
+2. Create a new repo **with the same name as your username**, example:
+   ```bash
+   pradeepdevs140
+   ```
+3. Check the box **“Add a README file”**.
+4. Replace its content with this README.
+5. Commit and push.
+
+Your profile will now show this README as the main banner.
+
+---
+
+⭐ If you like my work, feel free to connect or collaborate!
