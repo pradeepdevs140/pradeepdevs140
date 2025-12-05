@@ -24,7 +24,7 @@ I enjoy turning ideas into production-ready systems and continuously pushing mys
 - Java, JavaScript
 
 ### **Frontend**
-- React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
+-nextjs, React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
 
 ### **Backend**
 - Java, Spring Boot, RESTful APIs, Microservices
